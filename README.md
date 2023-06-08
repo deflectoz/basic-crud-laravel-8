@@ -6,6 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## Note
+
+This simple application was created to support the training process for new developers on Target Media Nusantara Company, allowing them to gain an understanding of Laravel and explore its functionalities. Developers can try it out for themselves by cloning this repository.
+
+Made By Muhammad Febriyan Akbar
 
 ## About Laravel
 
